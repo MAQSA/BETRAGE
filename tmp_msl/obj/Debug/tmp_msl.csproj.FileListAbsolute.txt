@@ -1,0 +1,5 @@
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\tmp_msl\bin\Debug\tmp_msl.dll
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\tmp_msl\bin\Debug\tmp_msl.pdb
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\tmp_msl\obj\Debug\tmp_msl.csprojResolveAssemblyReference.cache
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\tmp_msl\obj\Debug\tmp_msl.dll
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\tmp_msl\obj\Debug\tmp_msl.pdb

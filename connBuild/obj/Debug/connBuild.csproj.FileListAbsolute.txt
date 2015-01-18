@@ -1,0 +1,7 @@
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\connBuild\bin\Debug\connBuild.dll
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\connBuild\bin\Debug\connBuild.pdb
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\connBuild\bin\Debug\tmp_msl.dll
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\connBuild\bin\Debug\tmp_msl.pdb
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\connBuild\obj\Debug\connBuild.csprojResolveAssemblyReference.cache
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\connBuild\obj\Debug\connBuild.dll
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\connBuild\obj\Debug\connBuild.pdb

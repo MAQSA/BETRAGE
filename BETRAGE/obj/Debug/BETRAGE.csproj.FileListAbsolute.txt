@@ -1,0 +1,13 @@
+c:\users\maksa\documents\visual studio 2013\Projects\BETRAGE\BETRAGE\bin\Debug\BETRAGE.exe.config
+c:\users\maksa\documents\visual studio 2013\Projects\BETRAGE\BETRAGE\bin\Debug\BETRAGE.exe
+c:\users\maksa\documents\visual studio 2013\Projects\BETRAGE\BETRAGE\bin\Debug\BETRAGE.pdb
+c:\users\maksa\documents\visual studio 2013\Projects\BETRAGE\BETRAGE\obj\Debug\BETRAGE.csprojResolveAssemblyReference.cache
+c:\users\maksa\documents\visual studio 2013\Projects\BETRAGE\BETRAGE\obj\Debug\BETRAGE.Form1.resources
+c:\users\maksa\documents\visual studio 2013\Projects\BETRAGE\BETRAGE\obj\Debug\BETRAGE.Properties.Resources.resources
+c:\users\maksa\documents\visual studio 2013\Projects\BETRAGE\BETRAGE\obj\Debug\BETRAGE.csproj.GenerateResource.Cache
+c:\users\maksa\documents\visual studio 2013\Projects\BETRAGE\BETRAGE\obj\Debug\BETRAGE.exe
+c:\users\maksa\documents\visual studio 2013\Projects\BETRAGE\BETRAGE\obj\Debug\BETRAGE.pdb
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\BETRAGE\bin\Debug\connBuild.dll
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\BETRAGE\bin\Debug\tmp_msl.dll
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\BETRAGE\bin\Debug\connBuild.pdb
+C:\Users\Maksa\documents\visual studio 2013\Projects\BETRAGE\BETRAGE\bin\Debug\tmp_msl.pdb
