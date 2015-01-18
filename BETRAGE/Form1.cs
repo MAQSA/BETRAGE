@@ -29,7 +29,7 @@ namespace BETRAGE
             this.tmp_mslTableAdapter.Fill(this.tmpMslDataSet.tmp_msl);
             // TODO: This line of code loads data into the 'genMslDataSet.general_bd' table. You can move, or remove it, as needed.
             this.general_bdTableAdapter.Fill(this.genMslDataSet.general_bd);
-            cn.ConnectionString = "Data Source=PLAYZZER;Initial Catalog=msl;Persist Security Info=True;User ID=sa;Password=go0d1uck";
+            cn.ConnectionString = "Data Source=admin;Initial Catalog=msl;Persist Security Info=True;User ID=sa;Password=****";
             cmd.Connection = cn;
             loadtablename();
 
