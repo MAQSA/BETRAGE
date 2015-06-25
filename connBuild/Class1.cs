@@ -9,6 +9,8 @@ namespace connBuild
 {
     public class connbld
     {
+        //test comment Bohdan
+
         SqlConnection conn;
         SqlConnectionStringBuilder connStringBuilder;
 
